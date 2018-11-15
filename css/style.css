@@ -1,0 +1,28 @@
+a:link {
+	color: #FF6634;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #FF6634;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FF9D77;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #B32B00;
+	text-decoration: underline;
+}
+
+.row{
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 20px;
+}
+#countInfo{
+	text-align: center;
+}
